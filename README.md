@@ -3,17 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayantaggrwal&label=Profile%20views&color=0e75b6&style=flat" alt="jayantaggrwal" /> </p>
 
-- 🌱 I’m currently learning **javscript core and node js**
+- 🌱 I’m currently learning **javscript and node js**
 
-- 👯 I’m looking to collaborate on **web project for learning purpose**
-
-- 🤝 I’m looking for help with **javascript**
+- 👯 I’m looking to collaborate on **web projects**
 
 - 💬 Ask me about **C++ and DSA**
 
 - 📫 How to reach me **muskan.jayant2@gmail.com**
-
-- ⚡ Fun fact **haan bhai bharosa rukh tera kaam time se kar doonga.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
