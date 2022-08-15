@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayantaggrwal&label=Profile%20views&color=0e75b6&style=flat" alt="jayantaggrwal" /> </p>
 
-- 🌱 I’m currently learning **javscript and node js**
+- 🌱 I’m currently learning **AI/ML**
 
-- 👯 I’m looking to collaborate on **web projects**
+- 👯 I’m looking to collaborate on **Android/Web Projects**
 
-- 💬 Ask me about **C++ and DSA**
+- 💬 Ask me about **Backend,AWS,DSA**
 
 - 📫 How to reach me **muskan.jayant2@gmail.com**
 
