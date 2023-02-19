@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Jayant Aggarwal</h1>
 <h3 align="center">A CSE Sophomore who loves exploring new fields and empowering others.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jayantaggrwal&label=Profile%20views&color=0e75b6&style=flat" alt="jayantaggrwal" /> </p>
 
-- 🌱 I’m currently learning **AI/ML**
+- 🌱 I’m currently learning **React and Svelt**
 
-- 👯 I’m looking to collaborate on **Android/Web Projects**
+- 👯 I’m looking to collaborate on **Web Projects**
 
 - 💬 Ask me about **Backend,AWS,DSA**
 
 - 📫 How to reach me **muskan.jayant2@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
