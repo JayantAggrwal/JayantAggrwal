@@ -2,7 +2,7 @@
 <h3 align="center">A CSE Sophomore who loves exploring new fields and empowering others.</h3>
 
 
-- 🌱 I’m currently learning about **Svelt**
+- 🌱 I’m currently learning about **Serverless Functions**
 
 - 👯 I’m looking to collaborate on **Web Projects**
 
