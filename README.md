@@ -2,11 +2,11 @@
 <h3 align="center">A CSE Sophomore who loves exploring new fields and empowering others.</h3>
 
 
-- 🌱 I’m currently learning **React and Svelt**
+- 🌱 I’m currently learning about **Svelt**
 
 - 👯 I’m looking to collaborate on **Web Projects**
 
-- 💬 Ask me about **Backend,AWS,DSA**
+- 💬 Ask me about **Vanilla JS,React,NodeJS,CodeScript,Django/Flask,AWS,DSA**
 
 - 📫 How to reach me **muskan.jayant2@gmail.com**
 
