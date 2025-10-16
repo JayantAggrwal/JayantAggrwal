@@ -1,26 +1,74 @@
 <h1 align="center">Hi 👋, I'm Jayant Aggarwal</h1>
-<h3 align="center">A CSE Sophomore who loves exploring new fields and empowering others.</h3>
+<h3 align="center">☁️ Cloud & DevOps Engineer | 🧠 Lifelong Learner | 🚀 Builder</h3>
 
-
-- 🌱 I’m currently learning about **Serverless Functions**
-
-- 👯 I’m looking to collaborate on **Web Projects**
-
-- 💬 Ask me about **Vanilla JS,React,NodeJS,CodeScript,Django/Flask,AWS,DSA**
-
-- 📫 How to reach me **muskan.jayant2@gmail.com**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/jayant-aggarwal-92b410215/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="baba1314" height="30" width="40" /></a>
+<p align="center">
+I design and automate scalable cloud infrastructures, build CI/CD pipelines, and create secure multi-cloud solutions. I enjoy solving real-world problems using a blend of engineering, automation, and innovation.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> </p>
+---
 
+### 💼 Experience  
+**Cloud Platform Engineer @ Quantiphi** (Jan 2024 – Present)  
+- 🚀 Automated production-grade infrastructure using **Terraform**, **GKE**, **Helm**, and CI/CD pipelines.  
+- 🌐 Designed secure **multi-cloud networks**, IAM roles, and VPNs for AWS → GCP migrations.  
+- 📊 Integrated **Prometheus**, **Grafana**, and GCP Monitoring to enable proactive issue detection and cost optimization.
 
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayantaggrwal&show_icons=true&locale=en" alt="jayantaggrwal" /></p>
+### 🧠 Skills & Tools  
+**Languages:** Python, SQL, JavaScript, C++  
+**Infra & CI/CD:** Terraform, Docker, Kubernetes, Helm, Jenkins, GitHub Actions, Cloud Build  
+**DevOps:** SonarQube, Prometheus, Grafana, Artifact Registry, CodePipeline  
+**Cloud:** GCP (primary), AWS (multi-cloud), Azure (familiar)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayantaggrwal&" alt="jayantaggrwal" /></p>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="GCP" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="40" height="40"/>
+</p>
+
+---
+
+### 🏆 Certifications  
+- ✅ GCP Professional Cloud Developer  
+- ✅ GCP Professional Data Engineer  
+- ✅ AWS Certified Solutions Architect – Associate  
+- ✅ HashiCorp Certified: Terraform – Associate  
+- ✅ GCP Associate Cloud Engineer
+
+---
+
+### 🌟 Featured Projects  
+- **End-to-End CI/CD on GCP** → Automated microservices deployment with Jenkins, Helm, SonarQube, and GKE, improving release reliability by 90%.  
+- **Multi-Cloud Deployment Automation** → Terraform + Jenkins pipelines for GKE & AWS ECS with integrated security scans (Trivy, SonarQube), cutting vulnerabilities by 85%.  
+- **Infrastructure Security Baseline as Code** → Reusable Terraform modules for IAM, VPCs, and load balancers with automated provisioning via GitHub Actions.
+
+---
+
+### 🌐 Connect with Me  
+<p align="left">
+  <a href="mailto:jayantagg24@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/jayant-aggarwal2024/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://jayant24.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jayantaggrwal&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jayantaggrwal&theme=radical" alt="GitHub Streak" />
+</p>
