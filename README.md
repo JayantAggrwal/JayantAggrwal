@@ -8,7 +8,7 @@ I design and automate scalable cloud infrastructures, build CI/CD pipelines, and
 ---
 
 ### 💼 Experience  
-**Cloud Platform Engineer @ Quantiphi** (Jan 2024 – Present)  
+**Cloud Platform Engineer @ Quantiphi**  
 - 🚀 Automated production-grade infrastructure using **Terraform**, **GKE**, **Helm**, and CI/CD pipelines.  
 - 🌐 Designed secure **multi-cloud networks**, IAM roles, and VPNs for AWS → GCP migrations.  
 - 📊 Integrated **Prometheus**, **Grafana**, and GCP Monitoring to enable proactive issue detection and cost optimization.
